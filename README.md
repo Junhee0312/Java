@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-    <a title="License GNU" href="https://github.com/enfycius/Java/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL v3-blue?style=flat-square"> <br>
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/enfycius/Java"/>
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/enfycius/Java"/>
+    <a title="License GNU" href="https://github.com/Junhee0312/Java/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL v3-blue?style=flat-square"> <br>
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Junhee0312/Java"/>
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Junhee0312/Java"/>
 </p>
 
 ## Table of contents
 
   * [Projects](#)
   * [Resources](#)
-  * [Tutorials](#)
+  * [Tutorials](./Tutorials/)
   * [License](#)
 
 ## :star: Projects
@@ -27,8 +27,6 @@
 
 ## :partly_sunny: Tutorials
 
-This section refers to the following [link](https://enfycius.github.io/_enfycius/docs/category/java).
-
 ## :warning: License
 
-This repository's projects are free and open-source software licensed under the [GPL-3.0](https://github.com/enfycius/Python/blob/master/LICENSE).
+This repository's projects are free and open-source software licensed under the [GPL-3.0](https://github.com/Junhee0312/Java/blob/master/LICENSE).
